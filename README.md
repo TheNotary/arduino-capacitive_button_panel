@@ -41,6 +41,13 @@ TODO: Drop a link to a picture of your wiring here or something.  Maybe fritzing
 TODO: Explain how to use the device here
 
 
+
+## Primary References
+
+* https://learn.adafruit.com/plush-game-controller/the-code
+* (maybe not consulted) https://www.pjrc.com/teensy/td_libs_CapacitiveSensor.html
+
+
 ## Contributing
 
 1. Fork it ( https://github.com/[my-github-username]/capacitive_paper_button_panel/fork )
